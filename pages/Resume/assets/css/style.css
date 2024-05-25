@@ -6,7 +6,7 @@
 }
 
 body {
-    background: lightblue;
+    background: #88e0d8;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,7 +27,7 @@ body {
 
 .container .left_Side {
     position: relative;
-    background: #003147;
+    background: #BDE5E1;
     padding: 40px;
 }
 
@@ -58,7 +58,7 @@ body {
 }
 
 .profileText h2 {
-    color: #fff;
+    color: #0d6086;
     font-size: 1.5em;
     margin-top: 20px;
     text-transform: uppercase;
@@ -69,7 +69,7 @@ body {
 
 .profileText h2 span {
     font-size: 0.8em;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .contactInfo {
@@ -77,7 +77,7 @@ body {
 }
 
 .title {
-    color: #fff;
+    color: #0d6086;
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 1px;
@@ -100,12 +100,12 @@ body {
     display: inline-block;
     width: 30px;
     font-size: 18px;
-    color: #03a9f4;
+    color: #F88767;
 }
 
 .contactInfo ul li span {
-    color: #fff;
-    font-weight: 300;
+    color: #003147;
+    font-weight: 400;
 }
 
 .contactInfo.education li{
@@ -113,25 +113,25 @@ body {
 }
 
 .contactInfo.education h5 {
-    color: #03a9f4;
-    font-weight: 500;
+    color: #F88767;
+    font-weight: 600;
 }
 
 .contactInfo.education h4:nth-child(2) {
-    color: #fff;
-    font-weight: 500;
+    color: #003147;
+    font-weight: 550;
 }
 
 .contactInfo.education h4 {
-    color: #fff;
-    font-weight: 300;
+    color: #003147;
+    font-weight: 400;
 }
 
 .contactInfo.language .percent{
     position: relative;
     width: 100%;
     height: 6px;
-    background: #081921;
+    background: #b0b2b3;
     display: block;
     margin-top: 5px;
 }
@@ -141,7 +141,7 @@ body {
     top: 0;
     left: 0;
     height: 100%;
-    background: #03a9f4;
+    background: #F88767;
 }
 
 .container .right_Side{
@@ -187,7 +187,7 @@ p {
 
 .about .box .text h4 {
     text-transform: uppercase;
-    color: #2a7da2;
+    color: #0d6086;
     font-size: 16px;
 }
 
@@ -218,7 +218,7 @@ p {
     top: 0;
     left: 0;
     height: 100%;
-    background: #03a9f4;
+    background: #F88767;
 }
 
 .interest ul {
@@ -234,7 +234,7 @@ p {
 }
 
 .interest ul li .fa-solid {
-    color: #03a9f4;
+    color: #F88767;
     font-size: 18px;
     width: 25px;
 
