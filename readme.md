@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/aymliekTT">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="/assets/img/logo.png" alt="Nyebe" width="130" height="100">
+    <img src="/assets/img/logo.png" alt="Spidy" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Portfolio Website</h3>
@@ -110,4 +110,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Resume | Followed a guide of a resume webpage layout. | https://youtu.be/hnjHCmaUVPg |
+| Resume | Followed a guide for a resume webpage layout. | https://youtu.be/hnjHCmaUVPg |
